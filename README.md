@@ -1,8 +1,8 @@
-# gpxgen
+# gpxgen 
 
 A single-file Python script that builds a timed GPX activity from a Google Maps
 directions link, or edits an existing GPX file (new start time, pace, name,
-creator, elevation or heart rate).
+creator, elevation or heart rate).For them strava larpers
 
 It only uses the Python standard library, so there's nothing to install.
 
